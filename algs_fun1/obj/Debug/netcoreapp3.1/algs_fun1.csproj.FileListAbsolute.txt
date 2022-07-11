@@ -1,0 +1,14 @@
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\bin\Debug\netcoreapp3.1\algs_fun1.exe
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\bin\Debug\netcoreapp3.1\algs_fun1.deps.json
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\bin\Debug\netcoreapp3.1\algs_fun1.runtimeconfig.json
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\bin\Debug\netcoreapp3.1\algs_fun1.runtimeconfig.dev.json
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\bin\Debug\netcoreapp3.1\algs_fun1.dll
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\bin\Debug\netcoreapp3.1\algs_fun1.pdb
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\obj\Debug\netcoreapp3.1\algs_fun1.csproj.AssemblyReference.cache
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\obj\Debug\netcoreapp3.1\algs_fun1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\obj\Debug\netcoreapp3.1\algs_fun1.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\obj\Debug\netcoreapp3.1\algs_fun1.AssemblyInfo.cs
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\obj\Debug\netcoreapp3.1\algs_fun1.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\obj\Debug\netcoreapp3.1\algs_fun1.dll
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\obj\Debug\netcoreapp3.1\algs_fun1.pdb
+C:\Users\denni\source\repos\algs_fun1\algs_fun1\obj\Debug\netcoreapp3.1\algs_fun1.genruntimeconfig.cache
